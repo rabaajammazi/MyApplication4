@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="your_password">Enter password</string>
+    <string name="your_name">Enter name</string>
+    <string name="information">Remember my information</string>
+    <string name="Submit">LOGIN</string>
+    <string name="checkbox">checkbox</string>
+    <string name="test">SharedPreferences</string>
+
+</resources>
